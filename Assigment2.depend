@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1624731288 source:/home/tshepo/Assigment2/src/LinkedListType.cpp
+	"LinkedListType.h"
+	<iostream>
+
+1624719297 /home/tshepo/Assigment2/include/LinkedListType.h
+
+1624705191 source:/home/tshepo/Assigment2/src/unorderedLinkedList.cpp
+	"unorderedLinkedList.h"
+	<iostream>
+
+1624719742 /home/tshepo/Assigment2/include/unorderedLinkedList.h
+	"linkedListType.h"
+
+1624712904 source:/home/tshepo/Assigment2/main.cpp
+	<iostream>
+	"unorderedLinkedList.h"
+
+1624562952 /home/tshepo/Assigment2/include/orderedLinkedList.h
+	"LinkedListType.h"
+
+1624712551 source:/home/tshepo/Assigment2/src/orderedLinkedList.cpp
+	"orderedLinkedList.h"
+	<iostream>
+
+1624719297 source:/home/tshepo/Assigment2/include/LinkedListType.h
+
+1624719717 /home/tshepo/Assigment2/include/linkedListType.h
+
